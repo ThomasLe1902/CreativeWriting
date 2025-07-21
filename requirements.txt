@@ -1,0 +1,7 @@
+pandas
+transformers
+torch
+huggingface_hub
+datasets
+trl
+ipykernel
